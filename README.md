@@ -1,2 +1,2 @@
-# simplest-ecommerce-library
+# minimal-ecommerce-library
  
